@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/minimum-viable-platformer.html" }
+  ]
+}
